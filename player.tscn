@@ -5,6 +5,7 @@
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0qixl"]
 
 [node name="Player" type="CharacterBody2D"]
+position = Vector2(690, 370)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_lqjjb")
